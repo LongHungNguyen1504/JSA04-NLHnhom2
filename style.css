@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#tinhtoan input {
+    width: 60%;
+    margin: 10px 0;
+    border: none;
+    border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1;
+    font-size: 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 2px solid transparent;
+}
+
+#baitoan {
+
+
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#tinhtoan input:hover {
+    color: blue;
+    background-image: url(images/Chibi-Spiderman-Wallpapers.jpg);
+}
